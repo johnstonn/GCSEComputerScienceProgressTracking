@@ -1,0 +1,30 @@
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF\WindowsFormsApplicationDIFF\bin\Debug\WindowsFormsApplicationDIFF.exe.config
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF\WindowsFormsApplicationDIFF\bin\Debug\WindowsFormsApplicationDIFF.exe
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF\WindowsFormsApplicationDIFF\bin\Debug\WindowsFormsApplicationDIFF.pdb
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.csprojResolveAssemblyReference.cache
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.csproj.GenerateResource.Cache
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.exe
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.pdb
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF2\WindowsFormsApplicationDIFF\bin\Debug\WindowsFormsApplicationDIFF.exe.config
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF2\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.exe
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF2\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.pdb
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF2\WindowsFormsApplicationDIFF\bin\Debug\WindowsFormsApplicationDIFF.exe
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF2\WindowsFormsApplicationDIFF\bin\Debug\WindowsFormsApplicationDIFF.pdb
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF2\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.csprojResolveAssemblyReference.cache
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF2\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF2\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF2\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.csproj.GenerateResource.Cache
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF3\WindowsFormsApplicationDIFF\bin\Debug\WindowsFormsApplicationDIFF.exe.config
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF3\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.exe
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF3\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.pdb
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF3\WindowsFormsApplicationDIFF\bin\Debug\WindowsFormsApplicationDIFF.exe
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF3\WindowsFormsApplicationDIFF\bin\Debug\WindowsFormsApplicationDIFF.pdb
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF3\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.csprojResolveAssemblyReference.cache
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF3\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF3\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\StudentTracking\WindowsFormsApplicationDIFF3\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.csproj.GenerateResource.Cache
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\Finished projects\ProgressTracker\WindowsFormsApplicationDIFF\bin\Debug\WindowsFormsApplicationDIFF.exe.config
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\Finished projects\ProgressTracker\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.exe
+C:\Users\PHILO\Documents\Visual Studio 2015\Projects\Finished projects\ProgressTracker\WindowsFormsApplicationDIFF\obj\Debug\WindowsFormsApplicationDIFF.pdb
