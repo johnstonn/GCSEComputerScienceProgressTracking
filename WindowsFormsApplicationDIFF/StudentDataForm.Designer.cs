@@ -40,12 +40,20 @@
             this.label7 = new System.Windows.Forms.Label();
             this.txtAverageVA = new System.Windows.Forms.TextBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.txtNatAvgMK1 = new System.Windows.Forms.TextBox();
+            this.txtNatAverageGrade1 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
             this.txtAvgGM1 = new System.Windows.Forms.TextBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.txtNatAvgGrade2 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.txtNatAvgMK2 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.txtNatAverageGrade2 = new System.Windows.Forms.TextBox();
             this.txtAvgGM2 = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
             this.txtTotalM2 = new System.Windows.Forms.TextBox();
             this.txtAverageM2 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -55,14 +63,6 @@
             this.btnEAL = new System.Windows.Forms.Button();
             this.btnDisadvantaged = new System.Windows.Forms.Button();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.label8 = new System.Windows.Forms.Label();
-            this.txtNatAvgMK1 = new System.Windows.Forms.TextBox();
-            this.txtNatAvgGrade1 = new System.Windows.Forms.TextBox();
-            this.label9 = new System.Windows.Forms.Label();
-            this.txtNatAvgGrade2 = new System.Windows.Forms.Label();
-            this.txtNatAvgMK2 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.label11 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvStudentProgress)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -175,7 +175,7 @@
             this.groupBox3.Controls.Add(this.label1);
             this.groupBox3.Controls.Add(this.txtNatAvgMK1);
             this.groupBox3.Controls.Add(this.txtTotalM1);
-            this.groupBox3.Controls.Add(this.txtNatAvgGrade1);
+            this.groupBox3.Controls.Add(this.txtNatAverageGrade1);
             this.groupBox3.Controls.Add(this.label5);
             this.groupBox3.Controls.Add(this.label9);
             this.groupBox3.Controls.Add(this.txtAverageM1);
@@ -188,6 +188,29 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Mock 1";
             // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(6, 123);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(103, 13);
+            this.label8.TabIndex = 22;
+            this.label8.Text = "National Avg. Grade";
+            // 
+            // txtNatAvgMK1
+            // 
+            this.txtNatAvgMK1.Location = new System.Drawing.Point(115, 96);
+            this.txtNatAvgMK1.Name = "txtNatAvgMK1";
+            this.txtNatAvgMK1.Size = new System.Drawing.Size(53, 20);
+            this.txtNatAvgMK1.TabIndex = 19;
+            // 
+            // txtNatAverageGrade1
+            // 
+            this.txtNatAverageGrade1.Location = new System.Drawing.Point(115, 120);
+            this.txtNatAverageGrade1.Name = "txtNatAverageGrade1";
+            this.txtNatAverageGrade1.Size = new System.Drawing.Size(53, 20);
+            this.txtNatAverageGrade1.TabIndex = 21;
+            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -196,6 +219,15 @@
             this.label5.Size = new System.Drawing.Size(61, 13);
             this.label5.TabIndex = 13;
             this.label5.Text = "Avg. Grade";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(6, 99);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(97, 13);
+            this.label9.TabIndex = 20;
+            this.label9.Text = "National Avg. mk 1";
             // 
             // txtAvgGM1
             // 
@@ -210,7 +242,7 @@
             this.groupBox2.Controls.Add(this.label6);
             this.groupBox2.Controls.Add(this.txtNatAvgMK2);
             this.groupBox2.Controls.Add(this.label4);
-            this.groupBox2.Controls.Add(this.textBox4);
+            this.groupBox2.Controls.Add(this.txtNatAverageGrade2);
             this.groupBox2.Controls.Add(this.txtAvgGM2);
             this.groupBox2.Controls.Add(this.label11);
             this.groupBox2.Controls.Add(this.txtTotalM2);
@@ -223,6 +255,15 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Mock 2";
             // 
+            // txtNatAvgGrade2
+            // 
+            this.txtNatAvgGrade2.AutoSize = true;
+            this.txtNatAvgGrade2.Location = new System.Drawing.Point(7, 123);
+            this.txtNatAvgGrade2.Name = "txtNatAvgGrade2";
+            this.txtNatAvgGrade2.Size = new System.Drawing.Size(103, 13);
+            this.txtNatAvgGrade2.TabIndex = 26;
+            this.txtNatAvgGrade2.Text = "National Avg. Grade";
+            // 
             // label6
             // 
             this.label6.AutoSize = true;
@@ -231,6 +272,13 @@
             this.label6.Size = new System.Drawing.Size(61, 13);
             this.label6.TabIndex = 16;
             this.label6.Text = "Avg. Grade";
+            // 
+            // txtNatAvgMK2
+            // 
+            this.txtNatAvgMK2.Location = new System.Drawing.Point(116, 96);
+            this.txtNatAvgMK2.Name = "txtNatAvgMK2";
+            this.txtNatAvgMK2.Size = new System.Drawing.Size(53, 20);
+            this.txtNatAvgMK2.TabIndex = 23;
             // 
             // label4
             // 
@@ -241,12 +289,28 @@
             this.label4.TabIndex = 10;
             this.label4.Text = "Total of Mock 2";
             // 
+            // txtNatAverageGrade2
+            // 
+            this.txtNatAverageGrade2.Location = new System.Drawing.Point(116, 120);
+            this.txtNatAverageGrade2.Name = "txtNatAverageGrade2";
+            this.txtNatAverageGrade2.Size = new System.Drawing.Size(53, 20);
+            this.txtNatAverageGrade2.TabIndex = 25;
+            // 
             // txtAvgGM2
             // 
             this.txtAvgGM2.Location = new System.Drawing.Point(115, 67);
             this.txtAvgGM2.Name = "txtAvgGM2";
             this.txtAvgGM2.Size = new System.Drawing.Size(53, 20);
             this.txtAvgGM2.TabIndex = 14;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(7, 99);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(97, 13);
+            this.label11.TabIndex = 24;
+            this.label11.Text = "National Avg. mk 2";
             // 
             // txtTotalM2
             // 
@@ -334,70 +398,6 @@
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Query Data";
             // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(6, 123);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(103, 13);
-            this.label8.TabIndex = 22;
-            this.label8.Text = "National Avg. Grade";
-            // 
-            // txtNatAvgMK1
-            // 
-            this.txtNatAvgMK1.Location = new System.Drawing.Point(115, 96);
-            this.txtNatAvgMK1.Name = "txtNatAvgMK1";
-            this.txtNatAvgMK1.Size = new System.Drawing.Size(53, 20);
-            this.txtNatAvgMK1.TabIndex = 19;
-            // 
-            // txtNatAvgGrade1
-            // 
-            this.txtNatAvgGrade1.Location = new System.Drawing.Point(115, 120);
-            this.txtNatAvgGrade1.Name = "txtNatAvgGrade1";
-            this.txtNatAvgGrade1.Size = new System.Drawing.Size(53, 20);
-            this.txtNatAvgGrade1.TabIndex = 21;
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(6, 99);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(97, 13);
-            this.label9.TabIndex = 20;
-            this.label9.Text = "National Avg. mk 1";
-            // 
-            // txtNatAvgGrade2
-            // 
-            this.txtNatAvgGrade2.AutoSize = true;
-            this.txtNatAvgGrade2.Location = new System.Drawing.Point(7, 123);
-            this.txtNatAvgGrade2.Name = "txtNatAvgGrade2";
-            this.txtNatAvgGrade2.Size = new System.Drawing.Size(103, 13);
-            this.txtNatAvgGrade2.TabIndex = 26;
-            this.txtNatAvgGrade2.Text = "National Avg. Grade";
-            // 
-            // txtNatAvgMK2
-            // 
-            this.txtNatAvgMK2.Location = new System.Drawing.Point(116, 96);
-            this.txtNatAvgMK2.Name = "txtNatAvgMK2";
-            this.txtNatAvgMK2.Size = new System.Drawing.Size(53, 20);
-            this.txtNatAvgMK2.TabIndex = 23;
-            // 
-            // textBox4
-            // 
-            this.textBox4.Location = new System.Drawing.Point(116, 120);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(53, 20);
-            this.textBox4.TabIndex = 25;
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(7, 99);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(97, 13);
-            this.label11.TabIndex = 24;
-            this.label11.Text = "National Avg. mk 2";
-            // 
             // StudentDataForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -456,11 +456,11 @@
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.Label label8;
         public System.Windows.Forms.TextBox txtNatAvgMK1;
-        public System.Windows.Forms.TextBox txtNatAvgGrade1;
+        public System.Windows.Forms.TextBox txtNatAverageGrade1;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label txtNatAvgGrade2;
         public System.Windows.Forms.TextBox txtNatAvgMK2;
-        public System.Windows.Forms.TextBox textBox4;
+        public System.Windows.Forms.TextBox txtNatAverageGrade2;
         private System.Windows.Forms.Label label11;
     }
 }

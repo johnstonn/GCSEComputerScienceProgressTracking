@@ -55,6 +55,7 @@
     <Compile Include="ConnectDB.cs" />
     <Compile Include="DataAnalysis.cs" />
     <Compile Include="errorTracking.cs" />
+    <Compile Include="NationalData.cs" />
     <Compile Include="StudentDataForm.cs">
       <SubType>Form</SubType>
     </Compile>

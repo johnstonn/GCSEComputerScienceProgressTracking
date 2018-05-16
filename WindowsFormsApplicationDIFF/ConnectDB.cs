@@ -184,7 +184,6 @@ namespace StudentTrackerNS
                 //I need to stop this from rounding
                 sdf.dgvStudentProgress.Rows[i].Cells[8].Value = prog8;
                 sdf.dgvStudentProgress.Rows[i].Cells[10].Value = prog82;
-
                 //Distance travelled displayed and worked out.
                 double totalDist = mock.distanceTravelled(prog8, prog82);
                 sdf.dgvStudentProgress.Rows[i].Cells[11].Value = (totalDist - (Convert.ToInt32(dt.Rows[i][6])));

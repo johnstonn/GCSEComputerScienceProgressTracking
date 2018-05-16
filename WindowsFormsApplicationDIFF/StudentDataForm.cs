@@ -16,6 +16,8 @@ namespace StudentTrackerNS
 
         ConnectDb cdb = new ConnectDb();
 
+
+
         public StudentDataForm()
         {
             InitializeComponent();
@@ -38,7 +40,8 @@ namespace StudentTrackerNS
             //call things to do the maths.
             cdb.gradeWorkout(this);
             cdb.calculateTotalAndAverage(this);
-
+            NationalData nd = new NationalData();
+            nd.generateNationalData(this);
             //formatting 
             readAndSetData();
             conditionalFormatDataTable();
@@ -51,8 +54,10 @@ namespace StudentTrackerNS
             cdb.queryDatabase(num, this);
             cdb.gradeWorkout(this);
             cdb.calculateTotalAndAverage(this);
+            NationalData nd = new NationalData();
+            nd.generateNationalData(this);
+            //formatting             
             autoSizeColumns();
-            //formatting 
             readAndSetData();
             conditionalFormatDataTable();
         }
@@ -64,8 +69,10 @@ namespace StudentTrackerNS
             cdb.queryDatabase(num, this);
             cdb.gradeWorkout(this);
             cdb.calculateTotalAndAverage(this);
+            NationalData nd = new NationalData();
+            nd.generateNationalData(this);
+            //formatting             
             autoSizeColumns();
-            //formatting 
             readAndSetData();
             conditionalFormatDataTable();
         }
@@ -77,8 +84,10 @@ namespace StudentTrackerNS
             cdb.queryDatabase(num, this);
             cdb.gradeWorkout(this);
             cdb.calculateTotalAndAverage(this);
-            autoSizeColumns();
+            NationalData nd = new NationalData();
+            nd.generateNationalData(this);
             //formatting 
+            autoSizeColumns();
             readAndSetData();
             conditionalFormatDataTable();
         }
@@ -90,8 +99,10 @@ namespace StudentTrackerNS
             cdb.queryDatabase(num, this);
             cdb.gradeWorkout(this);
             cdb.calculateTotalAndAverage(this);
+            NationalData nd = new NationalData();
+            nd.generateNationalData(this);
+            //formatting             
             autoSizeColumns();
-            //formatting 
             readAndSetData();
             conditionalFormatDataTable();
         }
@@ -118,9 +129,14 @@ namespace StudentTrackerNS
             txtAvgGM1.ReadOnly = true;
             txtAvgGM2.ReadOnly = true;
             txtAverageVA.ReadOnly = true;
+            txtNatAvgMK1.ReadOnly = true;
+            txtNatAvgMK2.ReadOnly = true;
+            txtNatAverageGrade1.ReadOnly = true;
+            txtNatAverageGrade2.ReadOnly = true;
+
 
         }
-        
+
         //colours code each students performance for visual of progress.
         public void conditionalFormatDataTable()
         {
@@ -151,7 +167,7 @@ namespace StudentTrackerNS
                 {
                     txtAverageVA.BackColor = Color.ForestGreen;
                 }
-            }         
+            }
         }
         
         //calls the update method to save any data changes.
@@ -174,22 +190,12 @@ namespace StudentTrackerNS
             txtAverageVA.BackColor = Color.White;
             txtAvgGM1.Text = "";
             txtAvgGM2.Text = "";
+            txtNatAvgMK1.Text = "";
+            txtNatAvgMK2.Text = "";
+            txtNatAverageGrade1.Text = "";
+            txtNatAverageGrade2.Text = "";
 
         }
     }
 }
 
-//TODO
-//AVERAGE NATIONAL AVERAGE.
-
-//national average source:  https://www.jcq.org.uk/examination-results/gcses
-//public double nationalAverageMock1()
-//{
-//    //June 2015
-//    return 65.1;
-//}
-//public double nationalAverageMock2()
-//{
-//    //June 2016
-//    return 60.8;
-//}
