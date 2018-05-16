@@ -9,8 +9,8 @@ namespace StudentTrackerNS
 {
     public class NationalData
     {
+        //generate national averages for the mock exams used:
         //national average source:  https://www.jcq.org.uk/examination-results/gcses
-
         public void generateNationalData(StudentDataForm sdf)
         {            
             //June 2015

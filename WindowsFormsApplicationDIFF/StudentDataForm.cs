@@ -13,10 +13,7 @@ namespace StudentTrackerNS
 {
     public partial class StudentDataForm : Form
     {
-
         ConnectDb cdb = new ConnectDb();
-
-
 
         public StudentDataForm()
         {
